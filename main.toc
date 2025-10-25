@@ -15,31 +15,30 @@
 \contentsline {subsection}{Ekstra NK Niv. 3}{7}{subsection*.15}%
 \contentsline {subsection}{Ekstra LP Niv. 3}{7}{subsection*.15}%
 \contentsline {subsection}{Hårdhudet}{8}{subsection*.16}%
-\contentsline {subsection}{Opsparing}{8}{subsection*.17}%
+\contentsline {subsection}{Bersærkerkrop}{8}{subsection*.17}%
+\contentsline {subsection}{Opsparing}{8}{subsection*.19}%
 \contentsline {chapter}{\numberline {4}Niveau 4}{9}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{9}{section*.19}%
-\contentsline {subsection}{Ekstra LP Niv. 4}{9}{section*.20}%
-\contentsline {subsection}{Ekstra NK Niv. 4}{10}{section*.20}%
-\contentsline {subsection}{Kraft slag}{10}{subsection*.21}%
-\contentsline {subsection}{Læse og skrive Hellig}{10}{subsection*.22}%
-\contentsline {subsection}{Reparere rustning Niv. 1}{10}{figure.caption.23}%
-\contentsline {subsection}{Skjoldbrødre}{10}{subsection*.24}%
-\contentsline {subsection}{Torturens vidunder}{11}{subsection*.24}%
-\contentsline {subsection}{Udvidet naturlig helbredelse}{11}{subsection*.26}%
-\contentsline {chapter}{Generelle evner}{12}{chapter*.27}%
-\contentsline {section}{Evne beskrivelse}{12}{table.caption.28}%
-\contentsline {subsection}{6. sans Niv. 1}{12}{subsection*.29}%
-\contentsline {subsection}{6. sans Niv. 2}{13}{subsection*.30}%
-\contentsline {subsection}{Bonk}{13}{subsection*.31}%
-\contentsline {subsection}{Brug af pistol}{13}{subsection*.32}%
-\contentsline {subsection}{Bære person}{13}{subsection*.33}%
-\contentsline {subsection}{Førstehjælp}{14}{subsection*.34}%
-\contentsline {subsection}{Læse og skrive}{14}{subsection*.35}%
-\contentsline {subsection}{Minearbejder}{14}{subsection*.36}%
-\contentsline {subsection}{Påfør gift}{14}{subsection*.37}%
-\contentsline {subsection}{Slagsbror Niv. 1}{14}{subsection*.38}%
-\contentsline {subsection}{Slagsbror Niv. 2}{15}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 2}{15}{subsection*.40}%
-\contentsline {subsection}{Speciale}{15}{subsection*.41}%
-\contentsline {subsection}{Tempelkriger}{15}{subsection*.41}%
-\contentsline {subsection}{Urtesamler}{16}{subsection*.43}%
+\contentsline {section}{Evne beskrivelse}{9}{section*.21}%
+\contentsline {subsection}{Ekstra LP Niv. 4}{9}{section*.22}%
+\contentsline {subsection}{Ekstra NK Niv. 4}{10}{section*.22}%
+\contentsline {subsection}{Kraft slag}{10}{subsection*.23}%
+\contentsline {subsection}{Læse og skrive Hellig}{10}{subsection*.24}%
+\contentsline {subsection}{Skjoldbrødre}{10}{subsection*.27}%
+\contentsline {subsection}{Udvidet naturlig helbredelse}{10}{subsection*.29}%
+\contentsline {chapter}{Generelle evner}{12}{chapter*.30}%
+\contentsline {section}{Evne beskrivelse}{12}{table.caption.31}%
+\contentsline {subsection}{6. sans Niv. 1}{12}{subsection*.32}%
+\contentsline {subsection}{6. sans Niv. 2}{13}{subsection*.33}%
+\contentsline {subsection}{Bonk}{13}{subsection*.34}%
+\contentsline {subsection}{Brug af pistol}{13}{subsection*.35}%
+\contentsline {subsection}{Bære person}{13}{subsection*.36}%
+\contentsline {subsection}{Førstehjælp}{14}{subsection*.37}%
+\contentsline {subsection}{Læse og skrive}{14}{subsection*.38}%
+\contentsline {subsection}{Minearbejder}{14}{subsection*.39}%
+\contentsline {subsection}{Påfør gift}{14}{subsection*.40}%
+\contentsline {subsection}{Slagsbror Niv. 1}{15}{subsection*.41}%
+\contentsline {subsection}{Slagsbror Niv. 2}{15}{subsection*.42}%
+\contentsline {subsection}{Slagsbror Niv. 2}{15}{subsection*.43}%
+\contentsline {subsection}{Speciale}{15}{subsection*.44}%
+\contentsline {subsection}{Tempelkriger}{16}{subsection*.44}%
+\contentsline {subsection}{Urtesamler}{17}{subsection*.46}%
