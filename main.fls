@@ -615,9 +615,9 @@ INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerKriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerKriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerKriger.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
@@ -629,16 +629,11 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\Bonk.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
@@ -654,11 +649,6 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
@@ -673,33 +663,28 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Tempelkriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Tempelkriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Tempelkriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Tempelkriger.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Tempelkriger.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
