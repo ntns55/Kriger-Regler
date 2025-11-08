@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762279257.04603 "c:/Users/niels/Documents/GitHub/Kriger-Regler/main.tex" "main.pdf" "main" 1762279260.01566 0
+["pdflatex"] 1762279338.06845 "c:/Users/niels/Documents/GitHub/Kriger-Regler/main.tex" "main.pdf" "main" 1762279341.16139 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757946765 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 3.tex" 1754339060 108 91ab7a3e93498268796a2dbd985e8502 ""
@@ -283,11 +283,11 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
-  "c:/Users/niels/Documents/GitHub/Kriger-Regler/main.tex" 1762279007 1799 0db8d6434af1a42ffb266a07e454138e ""
-  "main.aux" 1762279259 5154 9e1b67d4dac48eb96947ece13ddae281 "pdflatex"
-  "main.out" 1762279259 5038 0619f844da4ca8ebb7dc2227e79a2440 "pdflatex"
-  "main.tex" 1762279007 1799 0db8d6434af1a42ffb266a07e454138e ""
-  "main.toc" 1762279259 2515 6afa3c62bf9217f6f191135455bbf4c1 "pdflatex"
+  "c:/Users/niels/Documents/GitHub/Kriger-Regler/main.tex" 1762279337 1797 78a84105f5543c11702f3b56e0fd70ca ""
+  "main.aux" 1762279340 5154 9e1b67d4dac48eb96947ece13ddae281 "pdflatex"
+  "main.out" 1762279340 5038 0619f844da4ca8ebb7dc2227e79a2440 "pdflatex"
+  "main.tex" 1762279337 1797 78a84105f5543c11702f3b56e0fd70ca ""
+  "main.toc" 1762279340 2515 6afa3c62bf9217f6f191135455bbf4c1 "pdflatex"
   "mainstuff/Indledning.tex" 1758741733 900 3ad1672bb827c158a95e9e66c3771506 ""
   "mainstuff/Niv1.tex" 1758226101 696 ec63a717a82c8fd2aac5674212a8a774 ""
   "mainstuff/Niv2.tex" 1762278234 1053 2f90b88d14f68692e5416ab94b58a5d5 ""
